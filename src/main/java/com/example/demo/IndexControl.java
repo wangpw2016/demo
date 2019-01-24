@@ -12,7 +12,7 @@ public class IndexControl   {
 @GetMapping("/")
 public String Index(Map<String ,String> map){
 
-    map.put("name","wangpw  hello11122222" );
+    map.put("name","wangpw  hhahhahahahahaah" );
 
     return "index";
 }
